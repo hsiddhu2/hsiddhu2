@@ -11,9 +11,22 @@
 
 ## 🚀 About Me
 
+Hi, I'm **Harry Siddhu**, a hands-on AWS Solution Architect with **18+ years** of experience in cloud architecture, system design, and solutions architecture. My superpower is continuous learning and exploring new technologies. I thrive on solving complex problems and delivering innovative solutions that drive business success.
+
+### 🎯 My Journey
+Starting as a Backend Development Engineer with **Java & Spring Boot**, I transitioned into cloud technologies where I specialize in building and refactoring IT systems to unlock their full potential in the cloud.
+
+### 💡 What I Do
+- **Cloud Architecture Design**: Crafting scalable, secure, and cost-effective solutions tailored to business needs
+- **Cloud Migrations**: Transforming monolithic applications into microservices and lift-and-shift migrations
+- **Infrastructure Automation**: Utilizing CloudFormation and DevOps practices for consistent deployments
+- **Cost Optimization**: Analyzing and optimizing cloud resources while maintaining performance
+- **Technical Leadership**: Conducting training and fostering continuous learning culture
+
 ```yaml
 name: Harry Siddhu
 role: AWS Hands-On Solution Architect
+experience: 18+ years
 location: Global
 current_focus: 
   - Solution Architecture
@@ -33,20 +46,40 @@ current_focus:
   <img src="https://img.shields.io/badge/AWS-Community%20Builder-FF6B35?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-## 💼 Expertise
+## 🎯 Core Competencies
 
-### ☁️ Cloud Migration & Modernization
+<div align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-2E8B57?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-DC143C?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cost%20Optimization-4169E1?style=for-the-badge&logo=calculator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalability-FF8C00?style=for-the-badge&logo=trending-up&logoColor=white" />
+  <img src="https://img.shields.io/badge/Migration-8A2BE2?style=for-the-badge&logo=arrow-right&logoColor=white" />
+</div>
+
+## 💼 Core Expertise
+
+### ☁️ Cloud Architecture & Migration
+- **AWS Services**: EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFormation, CloudFront, CloudWatch
+- **Migration Strategies**: Lift-and-shift, Application modernization, Monolith to microservices
 - **AWS Migration Hub** | **Application Migration Service** | **Database Migration Service**
-- **Legacy Application Modernization** | **Microservices Architecture**
 
-### ⚡ Serverless Technologies
-- **AWS Lambda** | **API Gateway** | **SNS/SQS** | **Event-Driven Architecture**
+### 🔧 Infrastructure & Automation
+- **Infrastructure as Code**: CloudFormation, Terraform
+- **DevOps Practices**: CI/CD pipelines, automated deployments
+- **Monitoring & Optimization**: Cost management, performance tuning
 
 ### 🐳 Containerization & Orchestration
-- **Amazon ECS/Fargate** | **Kubernetes** | **Amazon EKS** | **Karpenter**
+- **Docker**: Container management and deployment
+- **Kubernetes**: Container orchestration platform
+- **Amazon ECS/Fargate** | **Amazon EKS** | **Karpenter**
+
+### ⚡ Serverless & Event-Driven Architecture
+- **AWS Lambda** | **API Gateway** | **SNS/SQS** | **Event-Driven Architecture**
+- **Serverless Application Design** | **Cost-Effective Solutions**
 
 ### 🤖 AI & Machine Learning
 - **Generative AI Solutions** | **RAG Implementation** | **AI Agents** | **MCP (Model Context Protocol)**
+- **AWS AI/ML Services Integration**
 
 ## 🛠️ Tech Stack
 
