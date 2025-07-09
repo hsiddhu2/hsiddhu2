@@ -139,13 +139,7 @@ current_focus:
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Serverless Insurance Quote System with AWS — A Complete Tutorial](https://towardsaws.com/serverless-insurance-quote-system-with-aws-a-complete-tutorial-d3e6c8e54863?source=rss-96fcaaa6e15------2)
-- [Real-Time Data Transformation with Amazon S3 Object Lambda](https://towardsaws.com/real-time-data-transformation-with-amazon-s3-object-lambda-f9451c6a4c8a?source=rss-96fcaaa6e15------2)
-- [Deploy SpringBoot Java App on EC2 with CICD Automation ✌️](https://aws.plainenglish.io/deploy-springboot-java-app-on-ec2-with-cicd-automation-%EF%B8%8F-2915eb737db7?source=rss-96fcaaa6e15------2)
-- [Build A Serverless Email Marketing Applications Using AWS](https://aws.plainenglish.io/build-a-serverless-email-marketing-applications-using-aws-252143efb5cf?source=rss-96fcaaa6e15------2)
-- [Break into Cloud Engineering WITHOUT a Degree!](https://aws.plainenglish.io/break-into-cloud-engineering-without-a-degree-3e218fe24d01?source=rss-96fcaaa6e15------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Serverless Insurance Quote System with AWS — A Complete Tutorial](https://towardsaws.com/serverless-insurance-quote-system-with-aws-a-complete-tutorial-d3e6c8e54863?source=rss-96fcaaa6e15------2)- [Real-Time Data Transformation with Amazon S3 Object Lambda](https://towardsaws.com/real-time-data-transformation-with-amazon-s3-object-lambda-f9451c6a4c8a?source=rss-96fcaaa6e15------2)- [Deploy SpringBoot Java App on EC2 with CICD Automation ✌️](https://aws.plainenglish.io/deploy-springboot-java-app-on-ec2-with-cicd-automation-%EF%B8%8F-2915eb737db7?source=rss-96fcaaa6e15------2)- [Build A Serverless Email Marketing Applications Using AWS](https://aws.plainenglish.io/build-a-serverless-email-marketing-applications-using-aws-252143efb5cf?source=rss-96fcaaa6e15------2)- [Break into Cloud Engineering WITHOUT a Degree!](https://aws.plainenglish.io/break-into-cloud-engineering-without-a-degree-3e218fe24d01?source=rss-96fcaaa6e15------2)<!-- BLOG-POST-LIST:END -->
 
 ## 🎥 Latest YouTube Videos
 
