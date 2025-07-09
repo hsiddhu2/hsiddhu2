@@ -140,11 +140,21 @@ current_focus:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Serverless Applications with AWS Lambda](http://medium.com/@harrysiddhu)
+- [AWS ECS vs EKS: Complete Comparison Guide](http://medium.com/@harrysiddhu)
+- [Cost Optimization Strategies for AWS](http://medium.com/@harrysiddhu)
+- [Microservices Migration to AWS](http://medium.com/@harrysiddhu)
+- [AWS Security Best Practices](http://medium.com/@harrysiddhu)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AWS Solution Architecture Deep Dive](https://www.youtube.com/@CloudWithHarry)
+- [Kubernetes on AWS EKS Tutorial](https://www.youtube.com/@CloudWithHarry)
+- [Serverless vs Containers Comparison](https://www.youtube.com/@CloudWithHarry)
+- [AWS Cost Optimization Tips](https://www.youtube.com/@CloudWithHarry)
+- [Cloud Migration Strategies](https://www.youtube.com/@CloudWithHarry)
 <!-- YOUTUBE:END -->
 
 ## 🗺️ Visitor Map
