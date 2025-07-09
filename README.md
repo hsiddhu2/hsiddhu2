@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Harry Siddhu**, a hands-on AWS Solution Architect with **18+ years** of experience in cloud architecture, system design, and solutions architecture. My superpower is continuous learning and exploring new technologies. I thrive on solving complex problems and delivering innovative solutions that drive business success.
+Hi, I'm **Harry Siddhu**, a hands-on AWS Solution Architect with **18+ years** of experience in solutions architecture, system design, software development, implementation etc. My superpower is continuous learning and exploring new technologies. I thrive on solving complex problems and delivering innovative solutions that drive business success.
 
 ### 🎯 My Journey
 Starting as a Backend Development Engineer with **Java & Spring Boot**, I transitioned into cloud technologies where I specialize in building and refactoring IT systems to unlock their full potential in the cloud.
