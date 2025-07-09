@@ -160,7 +160,7 @@ current_focus:
 ## 🗺️ Visitor Map
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hsiddhu2&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=hsiddhu2&label=Total%20Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
