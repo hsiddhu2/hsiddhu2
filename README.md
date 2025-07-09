@@ -137,6 +137,26 @@ current_focus:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsiddhu2&theme=tokyo-night&hide_border=true" />
 </div>
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🎥 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+## 🗺️ Visitor Map
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hsiddhu2&label=Profile%20Views&color=12&icon=0&pretty=true" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/hsiddhu2/hsiddhu2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -149,6 +169,10 @@ current_focus:
   <a href="https://www.youtube.com/@CloudWithHarry">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hsiddhu2&theme=tokyonight" />
 </div>
 
 ## 💡 Current Focus
