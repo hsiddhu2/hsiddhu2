@@ -25,3 +25,13 @@ jobs:
           commit_message: "Updated with latest blog posts"
           committer_username: "blog-post-bot"
           committer_email: "blog-post-bot@example.com"
+      - name: Pull in YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTOMHCAdBxrzvruW6j_rrEA"
+          max_post_count: 5
+          template: "- [$title]($url)"
+          commit_message: "Updated with latest YouTube videos"
+          committer_username: "youtube-bot"
+          committer_email: "youtube-bot@example.com"
