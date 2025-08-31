@@ -143,7 +143,7 @@ current_focus:
 
 ## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->- [Build A Serverless Email Marketing App in 40 Minutes in AWS](https://www.youtube.com/watch?v=6AmG7bDoIoA)- [Point Domain To CloudFront Using Route53 for AWS Hosting](https://www.youtube.com/watch?v=xfEa6R71ggw)- [How to Set up an Amazon CloudFront Distribution in 5 Minutes](https://www.youtube.com/watch?v=BlZYVY8EXVI)- [Secure Website In Minutes: Get A Free SSL Certificate From AWS](https://www.youtube.com/watch?v=OgtyiuWc5RM)- [Beginner&#39;s Tutorial: Amazon SSL Certificate for Free](https://www.youtube.com/watch?v=mim_wSRjJVc)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- [AWS Lambda Price Change Shocker for 2025!](https://www.youtube.com/watch?v=RrtKDoNvjaI)- [Build A Serverless Email Marketing App in 40 Minutes in AWS](https://www.youtube.com/watch?v=6AmG7bDoIoA)- [Point Domain To CloudFront Using Route53 for AWS Hosting](https://www.youtube.com/watch?v=xfEa6R71ggw)- [How to Set up an Amazon CloudFront Distribution in 5 Minutes](https://www.youtube.com/watch?v=BlZYVY8EXVI)- [Secure Website In Minutes: Get A Free SSL Certificate From AWS](https://www.youtube.com/watch?v=OgtyiuWc5RM)<!-- YOUTUBE:END -->
 
 ## 🗺️ Visitor Map
 
