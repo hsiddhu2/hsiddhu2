@@ -143,7 +143,7 @@ current_focus:
 
 ## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->- [7 Strategies for Optimizing Cloud Costs #CloudCostOptimization #CloudComputing #CostSavingTips](https://www.youtube.com/shorts/Os7jliyaKas)- [Save $$ - Learn How to Optimize AWS Lambda INIT Phase](https://www.youtube.com/watch?v=RrtKDoNvjaI)- [Build A Serverless Email Marketing App in 40 Minutes in AWS](https://www.youtube.com/watch?v=6AmG7bDoIoA)- [Point Domain To CloudFront Using Route53 for AWS Hosting](https://www.youtube.com/watch?v=xfEa6R71ggw)- [How to Set up an Amazon CloudFront Distribution in 5 Minutes](https://www.youtube.com/watch?v=BlZYVY8EXVI)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- [Amazon Bedrock API Tutorial: Build Generative AI Apps Fast](https://www.youtube.com/watch?v=egUeMRMw1G8)- [7 Strategies for Optimizing Cloud Costs #CloudCostOptimization #CloudComputing #CostSavingTips](https://www.youtube.com/shorts/Os7jliyaKas)- [Save $$ - Learn How to Optimize AWS Lambda INIT Phase](https://www.youtube.com/watch?v=RrtKDoNvjaI)- [Build A Serverless Email Marketing App in 40 Minutes in AWS](https://www.youtube.com/watch?v=6AmG7bDoIoA)- [Point Domain To CloudFront Using Route53 for AWS Hosting](https://www.youtube.com/watch?v=xfEa6R71ggw)<!-- YOUTUBE:END -->
 
 ## 🗺️ Visitor Map
 
