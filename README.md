@@ -143,7 +143,7 @@ current_focus:
 
 ## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->- [Amazon Bedrock API Tutorial: Build Generative AI Apps Fast](https://www.youtube.com/watch?v=egUeMRMw1G8)- [7 Strategies for Optimizing Cloud Costs #CloudCostOptimization #CloudComputing #CostSavingTips](https://www.youtube.com/shorts/Os7jliyaKas)- [Save $$ - Learn How to Optimize AWS Lambda INIT Phase](https://www.youtube.com/watch?v=RrtKDoNvjaI)- [Build A Serverless Email Marketing App in 40 Minutes in AWS](https://www.youtube.com/watch?v=6AmG7bDoIoA)- [Point Domain To CloudFront Using Route53 for AWS Hosting](https://www.youtube.com/watch?v=xfEa6R71ggw)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- [The Fastest Way to Learn DevOps in 2025 #DevOps #CloudComputing #Containers  #Kubernetes #Terraform](https://www.youtube.com/shorts/3TvJNiF9m5Q)- [Top 5 DevOps Skills in High Demand in 2025 #devops  #Kubernetes #Containerization #CICD #DevSecOps](https://www.youtube.com/shorts/CvRAKWar-0w)- [Amazon Bedrock API Tutorial: Build Generative AI Apps Fast](https://www.youtube.com/watch?v=egUeMRMw1G8)- [7 Strategies for Optimizing Cloud Costs #CloudCostOptimization #CloudComputing #CostSavingTips](https://www.youtube.com/shorts/Os7jliyaKas)- [Save $$ - Learn How to Optimize AWS Lambda INIT Phase](https://www.youtube.com/watch?v=RrtKDoNvjaI)<!-- YOUTUBE:END -->
 
 ## 🗺️ Visitor Map
 
