@@ -143,7 +143,7 @@ current_focus:
 
 ## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->- [Unlocking AI Potential with AWS Bedrock: Customizable, Scalable, and Cost-Effective #bedrock #ai](https://www.youtube.com/shorts/msVbahV6AC8)- [The Fastest Way to Learn DevOps in 2025 #DevOps #CloudComputing #Containers  #Kubernetes #Terraform](https://www.youtube.com/shorts/3TvJNiF9m5Q)- [Top 5 DevOps Skills in High Demand in 2025 #devops  #Kubernetes #Containerization #CICD #DevSecOps](https://www.youtube.com/shorts/CvRAKWar-0w)- [Amazon Bedrock API Tutorial: Build Generative AI Apps Fast](https://www.youtube.com/watch?v=egUeMRMw1G8)- [7 Strategies for Optimizing Cloud Costs #CloudCostOptimization #CloudComputing #CostSavingTips](https://www.youtube.com/shorts/Os7jliyaKas)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- [Most Architects Get This Wrong! API Gateway vs ALB &lpar;AWS Explained&rpar;](https://www.youtube.com/watch?v=HIC1RG2qZ_E)- [Unlocking AI Potential with AWS Bedrock: Customizable, Scalable, and Cost-Effective #bedrock #ai](https://www.youtube.com/shorts/msVbahV6AC8)- [DevOps: The Fastest Way to Learn &lpar;and Make More $$titlerpar;](https://www.youtube.com/shorts/3TvJNiF9m5Q)- [Top 5 DevOps Skills in High Demand in 2025 #devops  #Kubernetes #Containerization #CICD #DevSecOps](https://www.youtube.com/shorts/CvRAKWar-0w)- [Amazon Bedrock API Tutorial: Build Generative AI Apps Fast](https://www.youtube.com/watch?v=egUeMRMw1G8)<!-- YOUTUBE:END -->
 
 ## 🗺️ Visitor Map
 
