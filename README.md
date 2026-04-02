@@ -1,4 +1,4 @@
-# Hi there, I'm Harry Siddhu! 👋
+# Hi there, I'm Harpreet Siddhu! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=AWS+Hands-On+Solution+Architect;AWS+Community+Builder;3X+AWS+Certified;Cloud+Migration+Expert;Serverless+%26+Container+Specialist" alt="Typing SVG" />
