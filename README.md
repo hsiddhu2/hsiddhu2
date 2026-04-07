@@ -143,7 +143,7 @@ current_focus:
 
 ## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->- [AWS Lambda Durable Functions - No more Lamba 15 minsLIMIT… #aws #awslambda #cloudwithharry](https://www.youtube.com/shorts/L7ozmopl9GA)- [What is a Retrieval Augmented Generation or A RAG? #RAG #AITechnology #MachineLearning #generativeai](https://www.youtube.com/shorts/L_zPnhcwRnA)- [Most Architects Get This Wrong! API Gateway vs ALB &lpar;AWS Explained&rpar;](https://www.youtube.com/watch?v=HIC1RG2qZ_E)- [Unlocking AI Potential with AWS Bedrock: Customizable, Scalable, and Cost-Effective #bedrock #ai](https://www.youtube.com/shorts/msVbahV6AC8)- [DevOps: The Fastest Way to Learn &lpar;and Make More $$titlerpar;](https://www.youtube.com/shorts/3TvJNiF9m5Q)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- [RAG Explained in 60 Seconds: Retrieval-Augmented Generation Basics #retrievalaugmentedgeneration](https://www.youtube.com/shorts/is4oNIBcV4U)- [AWS Lambda Durable Functions - No more Lamba 15 minsLIMIT… #aws #awslambda #cloudwithharry](https://www.youtube.com/shorts/L7ozmopl9GA)- [What is a Retrieval Augmented Generation or A RAG? #RAG #AITechnology #MachineLearning #generativeai](https://www.youtube.com/shorts/L_zPnhcwRnA)- [Most Architects Get This Wrong! API Gateway vs ALB &lpar;AWS Explained&rpar;](https://www.youtube.com/watch?v=HIC1RG2qZ_E)- [Unlocking AI Potential with AWS Bedrock: Customizable, Scalable, and Cost-Effective #bedrock #ai](https://www.youtube.com/shorts/msVbahV6AC8)<!-- YOUTUBE:END -->
 
 ## 🗺️ Visitor Map
 
